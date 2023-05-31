@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "May28React.Web", "May28React.Web\May28React.Web.csproj", "{BABB209F-21F4-4253-B158-CC102908CDA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "May28React.Data", "May28React.Data\May28React.Data.csproj", "{304FAC7B-C26A-46EE-9346-0CCCF28A5883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BABB209F-21F4-4253-B158-CC102908CDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABB209F-21F4-4253-B158-CC102908CDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABB209F-21F4-4253-B158-CC102908CDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABB209F-21F4-4253-B158-CC102908CDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304FAC7B-C26A-46EE-9346-0CCCF28A5883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304FAC7B-C26A-46EE-9346-0CCCF28A5883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304FAC7B-C26A-46EE-9346-0CCCF28A5883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304FAC7B-C26A-46EE-9346-0CCCF28A5883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E0F1BD-8676-4DBF-BE50-1F7B9F401B4F}
+	EndGlobalSection
+EndGlobal
